@@ -1,8 +1,3 @@
-const speakersList = [
-    { imageSrc: "cristianoRonaldo.png", name: "Cristiano Ronaldo" },
-    { imageSrc: "ronaldhino.png", name: "Ronaldhino Gaucho" },
-    { imageSrc: "JuanRomanRiquelme.png", name: "Juan Roman Riquelme" },
-  ];
 
 // function withData(Component) {
 //     return function() {
